@@ -1,2 +1,3 @@
 # Detect-full-rotations
-Detect full rotations with python
+
+Detect full rotations, interfaces and line degree with python
